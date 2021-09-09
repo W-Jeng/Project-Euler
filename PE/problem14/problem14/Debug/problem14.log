@@ -1,0 +1,10 @@
+﻿  p14.cpp
+C:\Users\Woon Jeng\Documents\C++\Project Euler\problem14\problem14\p14.cpp(40,22): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\Woon Jeng\Documents\C++\Project Euler\problem14\problem14\p14.cpp(40,30): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\Woon Jeng\Documents\C++\Project Euler\problem14\problem14\p14.cpp(46,14): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Woon Jeng\Documents\C++\Project Euler\problem14\problem14\p14.cpp(48,9): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  problem14.vcxproj -> C:\Users\Woon Jeng\Documents\C++\Project Euler\problem14\Debug\problem14.exe

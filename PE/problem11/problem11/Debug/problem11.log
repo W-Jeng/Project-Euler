@@ -1,0 +1,10 @@
+﻿  p11.cpp
+C:\Users\Woon Jeng\Documents\C++\Project Euler\problem11\problem11\p11.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Woon Jeng\Documents\C++\Project Euler\problem11\problem11\p11.cpp(47,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Woon Jeng\Documents\C++\Project Euler\problem11\problem11\p11.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Woon Jeng\Documents\C++\Project Euler\problem11\problem11\p11.cpp(54,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Woon Jeng\Documents\C++\Project Euler\problem11\problem11\p11.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Woon Jeng\Documents\C++\Project Euler\problem11\problem11\p11.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Woon Jeng\Documents\C++\Project Euler\problem11\problem11\p11.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Woon Jeng\Documents\C++\Project Euler\problem11\problem11\p11.cpp(70,21): warning C4018: '<': signed/unsigned mismatch
+  problem11.vcxproj -> C:\Users\Woon Jeng\Documents\C++\Project Euler\problem11\Debug\problem11.exe
