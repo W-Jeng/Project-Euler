@@ -1,1 +1,1 @@
-# The-GO-Project
+Project Euler solutions
